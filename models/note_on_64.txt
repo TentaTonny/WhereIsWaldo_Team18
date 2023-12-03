@@ -1,1 +1,3 @@
 model_64.pth_49 is een model voor 64x64 input 
+
+gebruik model_128 voor de opdracht xoxo Anton
