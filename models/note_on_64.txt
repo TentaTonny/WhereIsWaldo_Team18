@@ -1,0 +1,1 @@
+model_64.pth_49 is een model voor 64x64 input 
