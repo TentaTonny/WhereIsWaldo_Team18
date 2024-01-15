@@ -1,6 +1,2 @@
 # WhereIsWaldo_Team18
-
-- Pretraining => clean versie 
-- WhereIsWaldo => for reference use
-
-Download de data naar uw google drive. 
+you can find the code for each step in the accompanying notebook
